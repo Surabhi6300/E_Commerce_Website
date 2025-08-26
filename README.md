@@ -1,4 +1,4 @@
-# Complete README.md for PyShop E-Commerce Website
+# PyShop E-Commerce Website
 
 ```markdown
 # 🛒 PyShop – E-Commerce Website
@@ -27,7 +27,6 @@ This project was built to practice **Django web development, MVC architecture, a
 - **IDE**: PyCharm
 
 ---
-
 
 
 ## 📂 Project Structure
