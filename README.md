@@ -31,14 +31,14 @@ This project was built to practice **Django web development, MVC architecture, a
 
 ## 📂 Project Structure
 
-```
+
 PyShop/
 ├── manage.py           # Django project manager
 ├── shop/               # Main Django app
 ├── templates/          # HTML templates
 ├── static/             # CSS, JS, Images
 └── db.sqlite3          # Default SQLite database
-```
+
 
 ---
 
