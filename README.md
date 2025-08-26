@@ -25,3 +25,9 @@ It allows users to browse products, view details, and simulate the process of bu
 ---
 
 ## 📂 Project Structure
+PyShop/
+├── manage.py
+├── shop/ # Main Django app
+├── templates/ # HTML templates
+├── static/ # CSS, JS, Images
+└── db.sqlite3 # Default database
