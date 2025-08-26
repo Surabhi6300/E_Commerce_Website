@@ -42,16 +42,6 @@ PyShop/
 
 ---
 
-## 🚀 Features
-
-- 🛍️ User-friendly product catalog  
-- 📄 Product detail pages  
-- 🛒 Add to cart functionality (basic)  
-- ⚡ Built with Django framework  
-- 📦 Clean and extensible project structure  
-
----
-
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
